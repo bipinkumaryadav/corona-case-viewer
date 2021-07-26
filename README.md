@@ -11,7 +11,7 @@ tkinter (GUI of the application)
 
 ## Instruction to use
 
-Open App.exe 
+Open GUI.py 
 
 ## Credit 
 
