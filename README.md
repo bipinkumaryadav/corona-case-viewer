@@ -11,7 +11,24 @@ tkinter (GUI of the application)
 
 ## Instruction to use
 
-Open GUI.py 
+  Step 1:
+  
+  Open GUI.py
+  
+  ![Screenshot (40)](https://user-images.githubusercontent.com/69725182/127030534-b6f77cce-8d0d-4845-89db-b37d0759110c.png)
+  
+  Step 2 :
+  
+  Select State from the drop dowm menu 
+  
+  ![Screenshot (41)](https://user-images.githubusercontent.com/69725182/127030655-c482b041-db17-4e59-b046-b6b4fe59c6ac.png)
+
+  Step 3 :
+  
+  Click on Submit Button and get your information
+  
+  ![Screenshot (42)](https://user-images.githubusercontent.com/69725182/127030808-6eb426ce-1087-4c71-a58a-bda8c95efcc9.png)
+
 
 ## Credit 
 
