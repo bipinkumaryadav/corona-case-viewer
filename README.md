@@ -19,7 +19,7 @@ tkinter (GUI of the application)
   
   Step 2 :
   
-  Select State from the drop dowm menu 
+  Select State from the drop down menu 
   
   ![Screenshot (41)](https://user-images.githubusercontent.com/69725182/127030655-c482b041-db17-4e59-b046-b6b4fe59c6ac.png)
 
