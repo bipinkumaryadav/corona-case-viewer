@@ -1,5 +1,5 @@
 # Corona Case Viewer
-This is a desktop application which gives you information about the cases in the state of India. This application gives you information about total cases, active cases, recovered cases and death in the state. This application uses selenium framework for web scraping from the website to get the data. Webstite Name is <a href='https://coronaclusters.in/'>Corona Cluster</a>
+This is a desktop application which gives you information about the cases in the state of India. This application gives you information about total cases, active cases, recovered cases and death in the state. This application uses bs4 and urllib for web scraping from the website to get the data and tkinter for GUI of the application. Webstite Name is <a href='https://coronaclusters.in/'>Corona Cluster</a>
 
 ## Used Modules
 
